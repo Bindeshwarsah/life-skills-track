@@ -45,7 +45,7 @@ To maintain an effective firewall defense, it is important to:
 - Regularly review and optimize firewall rules.
 - Analyze firewall logs and promptly respond to incidents.
 - Perform patch management and firmware updates to address vulnerabilities.
-- Leverage threat intelligence and engage in threat hunting activities.
+- Leverage threat intelligence and engage in threat-hunting activities.
 - Conduct employee education and awareness programs to foster a security-conscious culture.
 
 ## Conclusion
